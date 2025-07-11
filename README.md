@@ -1,1 +1,8 @@
 # sql_project
+This project contains the definition and management of a database for a music app. It is divided into three SQL scripts:
+
+schema.sql: defines the structure of the database, including the creation of tables and constraints.
+
+inserts.sql: contains the initial data to be inserted into the tables.
+
+operations.sql: includes queries and operations to manage the information.
