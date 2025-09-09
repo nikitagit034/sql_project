@@ -1,8 +1,5 @@
-# sql_project
-This project contains the definition and management of a database for a music app. It is divided into three SQL scripts:
+In this project, we will be practicing inserting and querying data using SQL. We'll utilize a handy online tool provided by DevMountain that allows us to write SQL directly in our browser. Click Me
 
-schema.sql: defines the structure of the database, including the creation of tables and constraints.
+On the left are the Tables with their fields; the right side is where we will write our queries, and the bottom is where we will view our results.
 
-inserts.sql: contains the initial data to be inserted into the tables.
-
-operations.sql: includes queries and operations to manage the information.
+Any new tables or records that we add to the database will be removed after you refresh the page.
